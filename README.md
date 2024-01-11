@@ -1,6 +1,10 @@
+
+```c
+char *s = "Guilherme"; printf("What's up? I'm %s!\n", s);
+````
+
 <div align="center">
-    <h4>char *s = "Guilherme";</h4><h4>printf("What's up? I'm %s!\n", s);</h> 
-    <h2>What's up? I'm Guilherme!</h2>
+<h2>What's up? I'm Guilherme!</h2>
 </div>
 
 ## Info    
@@ -12,6 +16,7 @@
 
 ## Tech Stack
 <p> A couple of languages and tools I'm currently studying: </p>
+
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width=55/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width=55/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=45/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width=52/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width=52/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width=52/><br>
 
