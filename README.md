@@ -4,12 +4,12 @@ char *s = "Guilherme"; printf("What's up? I'm %s!\n", s);
 ````
 
 <div align="center">
-    <h2>What's up? I'm Guilherme!</h2>
+    <h2>What's up? Welcome to my GitHub profile!</h2>
 </div>
 
 ## Info    
-- 🎓 Bachelor's degree in Computer Science, third year student at University of Passo Fundo (UPF).
-- 🖥️ Currently working as QA Engineer at [OSF Digital](https://osf.digital/).
+- 🎓 Bachelor's degree in Computer Science, senior student at University of Passo Fundo (UPF), with expected graduation date at the end of 2026.
+- 🖥️ Currently working as an independent contractor QA Engineer at [Kadince](https://kadince.com/).
 - 📚 Learning about test automation for web technologies, software quality and software engineering.
 - 🎧 Always listening to good [tracks](https://open.spotify.com/playlist/1DFE2gtZ78ril2OZGppDe1).
 
@@ -18,17 +18,14 @@ char *s = "Guilherme"; printf("What's up? I'm %s!\n", s);
 <p> A couple of languages, frameworks and tools I'm currently studying: </p>
 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width=48/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=45/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width=45/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width=52/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width=48/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width=48/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=45/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width=45/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width=52/> 
           
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" width=45/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" width=45/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original-wordmark.svg" width=55/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/k6/k6-original.svg" width=45/>
           
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width=45/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width=45/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width=45/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" width=45/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width=45/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width=45/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width=45/>
-          
-          
 <br>
-
 
 
 
